@@ -1,0 +1,29 @@
+body {
+  background-color: lightgoldenrodyellow; 
+}
+
+h1 {
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+img {
+  text-align: center;
+}
+
+h2 {
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 30px;  
+}
+
+p {
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+li {
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 20px;  
+}
+
